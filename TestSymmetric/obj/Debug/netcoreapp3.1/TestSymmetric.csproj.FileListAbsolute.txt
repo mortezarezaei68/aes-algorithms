@@ -1,0 +1,13 @@
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric.deps.json
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric.runtimeconfig.json
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric.runtimeconfig.dev.json
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric.dll
+/home/mortezarezaei/Testsymmetric/TestSymmetric/bin/Debug/netcoreapp3.1/TestSymmetric.pdb
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.csprojAssemblyReference.cache
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.AssemblyInfoInputs.cache
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.AssemblyInfo.cs
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.csproj.CoreCompileInputs.cache
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.dll
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.pdb
+/home/mortezarezaei/Testsymmetric/TestSymmetric/obj/Debug/netcoreapp3.1/TestSymmetric.genruntimeconfig.cache
